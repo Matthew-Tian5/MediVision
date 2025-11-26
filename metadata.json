@@ -1,0 +1,7 @@
+{
+  "name": "MediVision",
+  "description": "A smart medication integration tool for post-discharge care. Scans discharge summaries and home medications to generate a safe, unified schedule approved by pharmacists.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
